@@ -86,7 +86,7 @@ body {
 }
 
 .messages__item {
-    background: #cc3;
+    background: rgb(92, 204, 51);
     max-width: 60.6%;
     width: fit-content;
 }
