@@ -32,7 +32,7 @@ keywords = {
     "pre-matricularme": "request_pre_matricula",
     "pre-matricular": "request_pre_matricula",
     "pre-matriculacion": "request_pre_matricula",
-    "inscripcion": "request_pre_matricula",
+    "inscripcion": "request_aclaracion_prematricula_matricula",
     "inscribirme": "request_pre_matricula",
     "inscribir": "request_pre_matricula",
     
@@ -44,17 +44,17 @@ keywords = {
    
 
     "contacto" : "request_contacto",
-    "telefono": "request_contacto",
-    "tlfno": "request_contacto",
+    "telefono": "request_telefono",
+    "tlfno": "request_telefono",
     "email": "request_contacto",
     "direccion": "request_contacto",
     "localizacion": "request_contacto",
     "sitio": "request_contacto",
     "encuentra": "request_contacto",
     "e-mail": "request_contacto",
-    "tlfn": "request_contacto",
-    "llamar": "request_contacto",
-    "llamada": "request_contacto",
+    "tlfn": "request_telefono",
+    "llamar": "request_telefono",
+    "llamada": "request_telefono",
     "correo": "request_contacto",
     "electronico": "request_contacto",
     "gmail": "request_contacto",
@@ -88,8 +88,11 @@ answer = {
     "request_pre_matricula": "El periodo de pre-matrícula es a partir de junio. Si rellenas el siguiente formulario (xxx (URL), cuando se publiquen las fechas oficiales te podremos avisar. Puedes inscribirte aquí: xxx (URL)",
     "request_matricula": "Para realizar la matrícula debes esperar a julio. La matrícula puedes realizarla aquí: xxx (URL)", 
     "request_contacto" : "Los datos de contacto del centro son: Teléfono: XXX XXX XXX. Email: xxxxxxx@gmail.com Dirección/Localización: XXXXXX",
+    "request_telefono" : "El teléfono del centro es el siguiente: XXX XXX XXX",
     "request_oferta": "El centro tiene una gran oferta de formaciones para realizar. Puedes informarte sobre ellas aquí: xxx (URL)",
+    "request_aclaracion_prematricula_matricula" : "De acuerdo, ¿me podrías especificar si necesitas información sobre la pre-matrícula o la matrícula?",
 
     "request_unknown": "¡Vaya! Parece que no te he entendido muy bien. Puedo ayudarte a contactar con el centro, proporcionarte información sobre matricula y oferta"
+
 }
 
