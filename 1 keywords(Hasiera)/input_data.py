@@ -53,7 +53,7 @@ keywords = {
     "tlfn": "request_telefono",
     "llamar": "request_telefono",
     "llamada": "request_telefono",
-    
+
 
     "direccion": "request_ubicacion",
     "ubicacion": "request_ubicacion",
@@ -62,6 +62,7 @@ keywords = {
     "sitio": "request_ubicacion",
     "encuentra": "request_ubicacion",
     "situado": "request_ubicacion",
+    "donde esta": "request_ubicacion",
 
 
     "contacto" : "request_contacto",
