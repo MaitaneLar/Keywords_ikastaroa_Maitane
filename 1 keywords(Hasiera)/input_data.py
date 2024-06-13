@@ -62,6 +62,7 @@ keywords = {
     "sitio": "request_ubicacion",
     "encuentra": "request_ubicacion",
     "situado": "request_ubicacion",
+    "ubica": "request_ubicacion",
     "donde esta": "request_ubicacion",
 
 
