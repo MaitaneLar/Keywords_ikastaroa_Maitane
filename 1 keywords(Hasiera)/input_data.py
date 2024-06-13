@@ -5,8 +5,10 @@ keywords = {
     "buenos": "request_saludo",
     "buen": "request_saludo",
     "holi": "request_saludo",
+    "buenas": "request_saludo",
     
 
+    "aio": "request_despedida",
     "adios": "request_despedida",
     "hasta": "request_despedida",
     "luego": "request_despedida",
@@ -43,18 +45,20 @@ keywords = {
     "matriculacion": "request_matricula",
    
 
-    "contacto" : "request_contacto",
+    
     "telefono": "request_telefono",
     "tlfno": "request_telefono",
+    "tlfn": "request_telefono",
+    "llamar": "request_telefono",
+    "llamada": "request_telefono",
+
+    "contacto" : "request_contacto",
     "email": "request_contacto",
     "direccion": "request_contacto",
     "localizacion": "request_contacto",
     "sitio": "request_contacto",
     "encuentra": "request_contacto",
     "e-mail": "request_contacto",
-    "tlfn": "request_telefono",
-    "llamar": "request_telefono",
-    "llamada": "request_telefono",
     "correo": "request_contacto",
     "electronico": "request_contacto",
     "gmail": "request_contacto",
