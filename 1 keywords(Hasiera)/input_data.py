@@ -71,6 +71,7 @@ keywords = {
 
     "oferta": "request_oferta",
     "ofertas": "request_oferta",
+    "estudiar": "request_oferta",
     "academica": "request_oferta",
     "grado": "request_oferta",
     "grados": "request_oferta",
