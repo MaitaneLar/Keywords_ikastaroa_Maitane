@@ -53,12 +53,19 @@ keywords = {
     "tlfn": "request_telefono",
     "llamar": "request_telefono",
     "llamada": "request_telefono",
+    
+
+    "direccion": "request_ubicacion",
+    "ubicacion": "request_ubicacion",
+    "emplazamiento": "request_ubicacion",
+    "localizacion": "request_ubicacion",
+    "sitio": "request_ubicacion",
+    "encuentra": "request_ubicacion",
+    "situado": "request_ubicacion",
+
 
     "contacto" : "request_contacto",
     "email": "request_contacto",
-    "direccion": "request_contacto",
-    "localizacion": "request_contacto",
-    "sitio": "request_contacto",
     "encuentra": "request_contacto",
     "e-mail": "request_contacto",
     "correo": "request_contacto",
@@ -67,6 +74,8 @@ keywords = {
     "hotmail": "request_contacto",
     "g-mail": "request_contacto",
     "mail": "request_contacto",
+
+    
       
 
     "oferta": "request_oferta",
@@ -98,6 +107,7 @@ answer = {
     "request_telefono" : "El teléfono del centro es el siguiente: XXX XXX XXX",
     "request_oferta": "El centro tiene una gran oferta de formaciones para realizar. Puedes informarte sobre ellas aquí: xxx (URL)",
     "request_aclaracion_prematricula_matricula" : "De acuerdo, ¿me podrías especificar si necesitas información sobre la pre-matrícula o la matrícula?",
+    "request_ubicacion" : "La ubicación del centro está en la siguiente url https://maps.app.goo.gl/UzpKnhbqGHyuintt6 y la dirección es la siguiente: Barrio Urritxe, s/n, 48340 Etxano, Biscay",
 
     "request_unknown": "¡Vaya! Parece que no te he entendido muy bien. Puedo ayudarte a contactar con el centro, proporcionarte información sobre matricula y oferta"
 
